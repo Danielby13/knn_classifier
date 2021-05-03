@@ -10,9 +10,9 @@ cd to clone file is placed
 python knn_classifier.py [path of hhd_dataset]
 ```
 When the program ends:
-	the program will export csv and text file where "knn_classifier.py" is placed.
+	the program will export csv and text file where "knn_classifier.py" is placed. 
 	the csv contain confusion matrix
-	the text file contain the accuracy for each letter and the best k and distance function (euclidean or chi2 square)
+	and the text file contain the accuracy for each letter and the best k and distance function (euclidean or chi2 square)
 
 ## Authors:
 * Daniel Ben Yair
