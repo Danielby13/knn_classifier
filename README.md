@@ -1,9 +1,9 @@
 # OCR of Handwritten Hebrew 
-This project was built as part of Image processing and Computer vision academic course.
+This project was built as part of Image Processing and Computer Vision academic course.
 We used k-Nearest Neighbor algorithm to classify handwriting images, using a database of about 5000 images.
 
 ## Getting Started
-To run the program,first you need to clone the project.
+To run the program, first you need to clone the project.
 and then in terminal:
 ```
 cd to clone file is placed
