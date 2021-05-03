@@ -15,8 +15,8 @@ When the program ends:
 	the text file contain the accuracy for each letter and the best k and distance function (euclidean or chi2 square)
 
 ## Authors:
-*Daniel Ben Yair
-*Inbal Altan
+* Daniel Ben Yair
+* Inbal Altan
 
 ### References
 [I. Rabaev, B. Kurar Barakat, A. Churkin and J. El-Sana. The HHD Dataset. The 17th
